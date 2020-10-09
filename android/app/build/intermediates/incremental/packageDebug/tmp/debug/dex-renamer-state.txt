@@ -1,0 +1,4 @@
+#Thu Oct 08 16:45:33 BRT 2020
+base.0=/home/proativa/Documentos/rocktseet/GoStack/nivel03/Desafio_Fundamentos_React-Native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

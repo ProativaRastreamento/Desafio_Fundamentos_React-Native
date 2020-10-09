@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoMarketplace.iml" filepath="$PROJECT_DIR$/.idea/modules/GoMarketplace.iml" group="GoMarketplace" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GoMarketplace/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/725130416/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/725130416/react-native-community_async-storage.iml" group="GoMarketplace/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1818585005/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1818585005/react-native-community_masked-view.iml" group="GoMarketplace/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-274598454/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-274598454/react-native-gesture-handler.iml" group="GoMarketplace/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1107381742/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1107381742/react-native-reanimated.iml" group="GoMarketplace/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1244740685/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1244740685/react-native-safe-area-context.iml" group="GoMarketplace/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-676948085/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-676948085/react-native-screens.iml" group="GoMarketplace/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-644676020/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-644676020/react-native-vector-icons.iml" group="GoMarketplace/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>
